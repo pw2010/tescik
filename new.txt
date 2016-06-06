@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+sdf --Tutaj te¿ zmienia³ Wilq -- 
+=======
 sdfsgdfgsdfgsdfgsdf
+>>>>>>> 3ff464a00b83596ec01b0159c27d5d3ffd67dcdc
